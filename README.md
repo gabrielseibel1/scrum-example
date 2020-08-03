@@ -1,2 +1,2 @@
-# scrum-example
+# Scrum Example
 A Scrum project example
